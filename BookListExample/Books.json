@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"Book 1",
+        "author":"Author 1",
+        "genre":"Genre 1",
+        "image":"book1"
+    },
+    {
+        "id":2,
+        "title":"Book 2",
+        "author":"Author 2",
+        "genre":"Genre 2",
+        "image":"book2"
+    },
+    {
+        "id":3,
+        "title":"Book 3",
+        "author":"Author 3",
+        "genre":"Genre 3",
+        "image":"book3"
+    },
+    {
+        "id":4,
+        "title":"Book 4",
+        "author":"Author 2",
+        "genre":"Genre 1",
+        "image":"book4"
+    },
+    {
+        "id":5,
+        "title":"Book 5",
+        "author":"Author 1",
+        "genre":"Genre 1",
+        "image":"book5"
+    }
+]
+
